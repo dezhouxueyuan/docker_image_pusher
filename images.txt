@@ -1,5 +1,5 @@
 nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+xhofe/alist:hub.docker.com
 --platform=linux/arm64 xiaoyaliu/alist
-hub.docker.com
+
